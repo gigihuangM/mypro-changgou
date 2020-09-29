@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/changgou.iml" filepath="$PROJECT_DIR$/.idea/changgou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chougou-parent/changgou-commom-db/changgou-commom-db.iml" filepath="$PROJECT_DIR$/chougou-parent/changgou-commom-db/changgou-commom-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chougou-parent/changgou-common/changgou-common.iml" filepath="$PROJECT_DIR$/chougou-parent/changgou-common/changgou-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chougou-parent/changgou-erueka/changgou-erueka.iml" filepath="$PROJECT_DIR$/chougou-parent/changgou-erueka/changgou-erueka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chougou-parent/changgou-gateway/changgou-gateway.iml" filepath="$PROJECT_DIR$/chougou-parent/changgou-gateway/changgou-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chougou-parent/changgou-gateway/changgou-gateway-web/changgou-gateway-web.iml" filepath="$PROJECT_DIR$/chougou-parent/changgou-gateway/changgou-gateway-web/changgou-gateway-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chougou-parent/changgou-service/changgou-server-order/changgou-server-order.iml" filepath="$PROJECT_DIR$/chougou-parent/changgou-service/changgou-server-order/changgou-server-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chougou-parent/changgou-service-api/changgou-server-order-api/changgou-server-order-api.iml" filepath="$PROJECT_DIR$/chougou-parent/changgou-service-api/changgou-server-order-api/changgou-server-order-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chougou-parent/changgou-service/changgou-service.iml" filepath="$PROJECT_DIR$/chougou-parent/changgou-service/changgou-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chougou-parent/changgou-service-api/changgou-service-api.iml" filepath="$PROJECT_DIR$/chougou-parent/changgou-service-api/changgou-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chougou-parent/changgou-service/changgou-service-canal/changgou-service-canal.iml" filepath="$PROJECT_DIR$/chougou-parent/changgou-service/changgou-service-canal/changgou-service-canal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chougou-parent/changgou-service/changgou-service-file/changgou-service-file.iml" filepath="$PROJECT_DIR$/chougou-parent/changgou-service/changgou-service-file/changgou-service-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chougou-parent/changgou-service/changgou-service-good/changgou-service-good.iml" filepath="$PROJECT_DIR$/chougou-parent/changgou-service/changgou-service-good/changgou-service-good.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chougou-parent/changgou-service-api/changgou-service-goods-api/changgou-service-goods-api.iml" filepath="$PROJECT_DIR$/chougou-parent/changgou-service-api/changgou-service-goods-api/changgou-service-goods-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chougou-parent/changgou-service/changgou-service-search/changgou-service-search.iml" filepath="$PROJECT_DIR$/chougou-parent/changgou-service/changgou-service-search/changgou-service-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chougou-parent/changgou-service-api/changgou-service-search-api/changgou-service-search-api.iml" filepath="$PROJECT_DIR$/chougou-parent/changgou-service-api/changgou-service-search-api/changgou-service-search-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chougou-parent/changgou-service/changgou-service-user/changgou-service-user.iml" filepath="$PROJECT_DIR$/chougou-parent/changgou-service/changgou-service-user/changgou-service-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chougou-parent/changgou-service-api/changgou-service-user-api/changgou-service-user-api.iml" filepath="$PROJECT_DIR$/chougou-parent/changgou-service-api/changgou-service-user-api/changgou-service-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chougou-parent/changgou-user-oauth/changgou-user-oauth.iml" filepath="$PROJECT_DIR$/chougou-parent/changgou-user-oauth/changgou-user-oauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chougou-parent/changgou-web/changgou-web.iml" filepath="$PROJECT_DIR$/chougou-parent/changgou-web/changgou-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chougou-parent/changgou-web/changgou-webs-search/changgou-webs-search.iml" filepath="$PROJECT_DIR$/chougou-parent/changgou-web/changgou-webs-search/changgou-webs-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chougou-parent/chougou-parent.iml" filepath="$PROJECT_DIR$/chougou-parent/chougou-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-thymeleaf/springboot-thymeleaf.iml" filepath="$PROJECT_DIR$/springboot-thymeleaf/springboot-thymeleaf.iml" />
+    </modules>
+  </component>
+</project>

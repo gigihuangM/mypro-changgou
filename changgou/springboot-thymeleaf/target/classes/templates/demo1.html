@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Thymeleaf</title>
+</head>
+<body>
+hello gigi<div th:text="${message}"></div>
+
+<div>
+    <form id="login-form" th:action="@{/test/hello}"></form>
+    <button>提交</button>
+</div>
+
+<div>
+    th:each循环
+    <table>
+        <tr>
+        <td>下标</td>
+        <td>ID</td>
+        <td>NAME</td>
+        <td>ADDRESS</td>
+    </tr>
+        <tr th:each="user,userSta:${users}">
+            <td th:text="${userSta.count}">下标</td>
+            <td th:text="${user.id}">ID</td>
+            <td th:text="${user.name}">NAME</td>
+            <td th:text="${user.address}">ADDRESS</td>
+        </tr>
+    </table>
+</div>
+
+<h1>知道key 获取value</h1>
+<div>
+    <span th:text="${dataMap.No}"></span>
+    <span th:text="${dataMap.address}"></span>
+</div>
+<h5>2</h5>
+<div th:each="map:${dataMap}">
+    <span th:text="${map.key}"></span>:<span th:text="${map.value}" }></span>
+
+</div>
+
+<div>
+    <span th:text="${#dates.format(now,'yyyy-MM-dd HH:mm:ss')}"></span>
+</div>
+
+<div>
+    <span th:if="${age>=18}">成年人</span>
+    <span th:unless="${age<18}">未成年人</span>
+</div>
+
+<div>下面是引入</div>
+
+<div>
+    <div id="A" th:include="footer::copy"></div>
+</div>
+
+</body>
+</html>
